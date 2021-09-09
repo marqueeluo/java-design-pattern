@@ -1,4 +1,4 @@
-package com.mx.server.designPattern.adapotr;
+package com.mx.server.designPattern.adaptor;
 
 /**
  * 适配器模式
