@@ -1,4 +1,4 @@
-package com.mx.server.designPattern.bridge;
+package com.luo.designPattern.bridge;
 
 /**
  * 桥接模式

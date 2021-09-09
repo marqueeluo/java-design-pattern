@@ -1,4 +1,4 @@
-package com.mx.server.designPattern.proxy;
+package com.luo.designPattern.proxy;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

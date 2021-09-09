@@ -1,4 +1,4 @@
-package com.mx.server.designPattern.singleton;
+package com.luo.designPattern.singleton;
 
 /**
  * 单例模式

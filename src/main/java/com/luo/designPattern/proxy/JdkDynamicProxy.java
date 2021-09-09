@@ -1,4 +1,4 @@
-package com.mx.server.designPattern.proxy;
+package com.luo.designPattern.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

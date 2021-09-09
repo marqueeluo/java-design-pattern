@@ -1,4 +1,4 @@
-package com.mx.server.designPattern.proxy;
+package com.luo.designPattern.proxy;
 
 /**
  * 代理模式
